@@ -1,0 +1,2 @@
+maze_generator
+-DCATKIN_DEVEL_PREFIX=/home/del/Del/GIIT/ROS2/simulation_ws/devel -DCMAKE_INSTALL_PREFIX=/home/del/Del/GIIT/ROS2/simulation_ws/install -G Unix Makefiles
